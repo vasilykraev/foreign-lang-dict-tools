@@ -1,0 +1,1 @@
+Helpful scripts for working with lang tools, like anki or online language learning services, like memrise.
